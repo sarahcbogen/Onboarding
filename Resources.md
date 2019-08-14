@@ -11,3 +11,7 @@
 
 [Writing in the Sciences - Coursera](https://www.coursera.org/learn/sciwrite)
 - Covers helpful processes such as limiting filler words, using active voice, and other general tips and tricks to improve your writing
+
+## Career Planning
+[Science Careers Individual Development Plan](https://myidp.sciencecareers.org/)
+- A free service from the AAAS that provides career path recommendations based on self-assessment of skills, interests, and values
